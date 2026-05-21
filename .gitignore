@@ -1,0 +1,20 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local settings
+.claude/
+
+# Node (if 추후 도입)
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
